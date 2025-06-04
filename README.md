@@ -242,6 +242,6 @@ Dự án này được cấp phép theo [MIT License](LICENSE).
 
 ## Liên hệ
 
-- Email: example@example.com
-- Website: https://example.com
-- GitHub: https://github.com/username/managerclb 
+- Email: skytua121@gmail.com
+
+- GitHub: https://github.com/Tien0404/managerclb 
